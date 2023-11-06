@@ -1,17 +1,16 @@
-######                 #####   #####   #####    ###   
-#     # ###### #    # #     # #     # #     #  #   #  
-#     # #      #    # #       #     #       # #     # 
-#     # #####  #    # ######   ######  #####  #     # 
-#     # #      #    # #     #       # #       #     # 
-#     # #       #  #  #     # #     # #        #   #  
-######  ######   ##    #####   #####  #######   ###   
-                                                      
+######                 
+#     # ###### #    #  
+#     # #      #    # 
+#     # #####  #    # 
+#     # #      #    # 
+#     # #       #  #   
+######  ######   ##     
+
+
 import requests
 import re
-import ctypes
-ctypes.windll.kernel32.SetConsoleTitleW("Coded by github.com/dev6920")
+import ctypes  
 
-print("Coded by dev github/dev6920")
 
 while True:
   
